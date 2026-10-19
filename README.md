@@ -18,7 +18,7 @@ This project focuses on analyzing fake UPI transactions and exploring how Machin
 - NumPy
 - Matplotlib
 - Seaborn
-- Scikit-learn
+
 
 ## Project Workflow
 1. Load the transaction dataset.
